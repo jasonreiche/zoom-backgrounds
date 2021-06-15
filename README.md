@@ -31,19 +31,26 @@
   - [Curbed](https://archive.curbed.com/2020/3/26/21193949/zoom-background-options-images-home-interior)
 - Travel
   - [Expedia Viewfinder](https://viewfinder.expedia.com/best-virtual-meeting-backgrounds-for-zoom/)
-  - [AirBNB]
+  - [AirBNB](https://news.airbnb.com/inside-looking-out-10-views-to-transport-you-outdoors/)
+  - [Napa Valley](https://www.visitnapavalley.com/blog/post/napa-valley-zoom-backgrounds-for-your-virtual-meetings/)
 - [Disney Parks - Paris](https://disneyparks.disney.go.com/blog/2020/04/disneymagicmoments-add-disney-magic-to-online-video-chats-with-virtual-backgrounds/)
 - [Carnegie Hall](https://www.carnegiehall.org/Explore/Articles/2020/04/03/Work-from-Carnegie-Hall-Download-Zoom-Backgrounds)
 - [Lego](https://www.lego.com/en-gb/themes/letsbuildtogether/backgrounds)
-- https://www.techrepublic.com/pictures/27-realistic-zoom-backgrounds-for-business-meetings/
+- [Container Store](https://www.containerstore.com/blog/posts/zoom-backgrounds-wfh-in-virtual-style)
 
 ## Virtual Background Libraries
 - [Zoom.us](https://zoom.us/virtual-backgrounds)
+- [Teleport](https://teleport.fm/)
 - [Unsplash - Zoom Backgrounds](https://unsplash.com/collections/1887152/zoom-backgrounds)
 - [RoomForZoom](https://www.roomforzoom.com/)
 - [Virtual BG](https://virtual-bg.com/)
+
+## Aggregation Articles
+- https://www.techrepublic.com/pictures/27-realistic-zoom-backgrounds-for-business-meetings/
 - https://geekculture.co/here-are-geeky-backgrounds-for-zoom-to-enhance-your-teleconferencing-during-covid-19/
 - https://www.virginmedia.com/virgin-tv-edit/tv/best-zoom-backgrounds-tv-shows-movies-gaming
+- https://parade.com/1026147/alexandra-hurtado/best-zoom-virtual-backgrounds/
+- https://www.tvguide.com/news/tv-themed-zoom-backgrounds-parks-and-recreation-schitts-creek/
 
 ## Free Image Libraries
 - [Twitter #zoombackground](https://twitter.com/hashtag/zoombackground)
