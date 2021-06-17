@@ -31,6 +31,7 @@
   - [Expedia Viewfinder](https://viewfinder.expedia.com/best-virtual-meeting-backgrounds-for-zoom/)
   - [AirBNB](https://news.airbnb.com/inside-looking-out-10-views-to-transport-you-outdoors/)
   - [Napa Valley](https://www.visitnapavalley.com/blog/post/napa-valley-zoom-backgrounds-for-your-virtual-meetings/)
+  - [United Airlines](https://hub.united.com/upgrade-zoom-video-backgrounds--2645610091.html)
 - [Carnegie Hall](https://www.carnegiehall.org/Explore/Articles/2020/04/03/Work-from-Carnegie-Hall-Download-Zoom-Backgrounds)
 - [Container Store](https://www.containerstore.com/blog/posts/zoom-backgrounds-wfh-in-virtual-style)
 - [Disney Parks - Paris](https://disneyparks.disney.go.com/blog/2020/04/disneymagicmoments-add-disney-magic-to-online-video-chats-with-virtual-backgrounds/)
